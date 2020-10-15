@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annuaire xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance]" xsi:noNamespaceSchemaLocation="annuaire2.xsd">
+    <contact titre="contact 1" techno="techno 1">
+        <nom>nom 1</nom>
+        <prenom>prenom 1</prenom>
+        <telephone>11 111 111</telephone>
+        <email>email@gmail.com</email>
+    </contact>
+</Annuaire>
